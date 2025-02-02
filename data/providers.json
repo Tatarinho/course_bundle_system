@@ -1,0 +1,7 @@
+{
+  "provider_topics": {
+    "provider_a": "math+science",
+    "provider_b": "reading+science",
+    "provider_c": "history+math"
+  }
+}
